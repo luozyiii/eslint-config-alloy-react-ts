@@ -1,5 +1,5 @@
 // .eslintrc.js
-// extends 这一句很关键 plugin:prettier/recommended
+// extends 这一句很关键 plugin:prettier/recommended 在某些项目低版本下可能需要这个
 module.exports = {
   extends: [
     "alloy",
